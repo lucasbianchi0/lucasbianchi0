@@ -59,7 +59,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Developed for the Argentine University of Business using Java 17, incorporating the singleton and MVC pattern. Job-Soft's Factura 2023 system dominates the Argentine market, managing products, clients, receipts, and electronic invoices through a web service connection with AFIP.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/Invoice-System-2023" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -75,7 +75,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Platform for renting spaces, developed with React, Tailwind, Node, and Postgres. Includes authentication and file uploads using Multer.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/rent-spaces" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -87,7 +87,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Embark on the innovation journey with my Startups Incubator website, crafted using React, TypeScript, Tailwind, Node, and Postgres. Ignite your ideas, program your success</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/seed-startups" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -103,7 +103,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Crafted a mobile e-commerce app with React Native, backed by Firebase for authentication and geolocation services. Seamlessly blending frontend and backend for a robust user experience</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/ecommerce-react-native" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -115,7 +115,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Implemented a Java CRUD application using Spring Boot, Hibernate, JPA, and MySQL. Seamlessly manage database operations with efficiency and reliability.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/crud-java-springboot" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -131,7 +131,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>E-commerce platform developed with Next.js, seamlessly integrated with Shopify.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/ecommerce-next-shopify" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -143,7 +143,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Unveil the world of influencers with our website's captivating landing page, meticulously crafted using React and Tailwind CSS.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+       <a href="https://github.com/lucasbianchi0/landing-influencers" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -159,7 +159,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Revolutionize e-commerce for influencers! Developed a robust platform using React, TypeScript, Tailwind, Node, and Postgres. Authenticated with Firebase and streamlined file uploads with Multer.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/influhub" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -171,7 +171,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Developed an application for video game visualization using Next.js and Strapi. Immerse yourself in the world of gaming with seamless navigation and dynamic content.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/videogames-next-strapi" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
