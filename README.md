@@ -47,7 +47,7 @@ Passionate about creating high-quality software solutions. Always exploring new 
   <div align="center">
     <p>Real estate website built with React, Tailwind, Node, and Postgres. Features JWT authentication and Nodemailer for sending emails to individuals interested in a property.</p>
     <p>
-      <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+      <a href="https://github.com/lucasbianchi0/realstate-fullstack" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
